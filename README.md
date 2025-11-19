@@ -1,4 +1,5 @@
 ## Project : MTZDT (My Time Zone Date Time)
+# application : [https://mtzdt.vercel.app/](https://mtzdt.vercel.app/)
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
